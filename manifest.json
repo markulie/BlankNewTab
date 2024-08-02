@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Blank New Tab",
+  "version": "0.0.1",
+  "homepage_url": "https://github.com/markulie",
+  "description": "A Chrome extension that replaces the new tab page with a blank page.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
